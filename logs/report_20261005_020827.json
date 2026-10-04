@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "system": "AI-Based Virtual Camera Tracking System (SIH26169)",
+        "organization": "ISRO / Department of Space",
+        "timestamp": "2026-10-05 02:08:32",
+        "duration_seconds": 5.45,
+        "total_frames_processed": 95
+    },
+    "performance_benchmarks": {
+        "acquisition_time_sec": 2.03,
+        "acquisition_spec_passed": false,
+        "reacquisition_time_avg_sec": 0.0,
+        "reacquisition_spec_passed": true,
+        "rmse_tracking_error_px": 35.34,
+        "average_tracking_error_px": 31.74,
+        "maximum_tracking_error_px": 56.28,
+        "tracking_error_spec_passed": false,
+        "target_loss_rate_percent": 85.71,
+        "target_loss_spec_passed": false,
+        "lock_retention_rate_percent": 14.29,
+        "average_fps": 17.4,
+        "fps_spec_passed": false,
+        "average_processing_latency_ms": 4.76
+    }
+}
